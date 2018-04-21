@@ -2,6 +2,8 @@
 <plugin id="cordova-plugin-encryption" version="1.1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 	<name>EncryptionPlugin</name>
 	<description>Cordova Encryption Plugin</description>
+	<repo>https://github.com/moqixiong/encryptionPlugin_repo.git</repo>
+	<keywords>ecosystem:cordova,cordova-plugin-encryption,encryption,EncryptionPlugin,cordova-android</keywords>
 	<js-module name="EncryptionPlugin" src="www/EncryptionPlugin.js">
 		<clobbers target="cordova.plugins.EncryptionPlugin" />
 	</js-module>
