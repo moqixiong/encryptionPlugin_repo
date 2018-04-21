@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MaxBalance/cordova-plugin-mjtest.git"
+    "url": "https://github.com/moqixiong/encryptionPlugin_repo.git"
   },
   "keywords": [
   	"ecosystem:cordova",
@@ -19,12 +19,7 @@
     "EncryptionPlugin",
     "cordova-android"
   ],
-  "author": "maxbalance",
-  "license": "ISC",
-    "bugs": {
-    "url": "https://github.com/MaxBalance/cordova-plugin-mjtest/issues"
-  },
-  "homepage": "https://github.com/MaxBalance/cordova-plugin-mjtest#readme",
+  "author": "moqixiong",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
